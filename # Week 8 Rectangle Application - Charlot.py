@@ -1,4 +1,3 @@
-# Week 8 Rectangle Application - Charlotte Payan-Salcedo
 
 from dataclasses import dataclass
 
