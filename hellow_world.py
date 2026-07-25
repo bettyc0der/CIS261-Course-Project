@@ -1,4 +1,4 @@
-# Charlotte Salcedo Python Class CIS261
+#  Python Class CIS261
 # Tutorial: How to Add a GitHub Post in Visual Studio Code
 
 # This is a basic Python script that prints "Hello World" to the console.
